@@ -1,1 +1,4 @@
-Arb Digital, operated by Arbsbuy LLC, is a US-registered digital marketing agency trusted by 200+ brands across the USA, UK, Canada and Australia. We help businesses grow online through SEO, content marketing, social media, paid advertising and conversion-focused web experiences. Beyond done-for-you services, arbsbuy.com is a growing resource hub: a library of free digital-marketing tools, 100+ practical guides, and an expanding Digital Library of expert eBooks on marketing, business, health, personal growth and more. Whether you want a partner to run your marketing or free resources to do it yourself, Arb Digital gives you practical, no-hype help you can act on today. Explore free tools, read the blog, or request a free growth proposal at arbsbuy.com.
+<p>
+  <a href="https://www.arbsbuy.com" target="_blank" rel="noopener noreferrer">Arb Digital</a>
+  (Arbsbuy LLC) is a US-registered digital marketing agency helping brands grow with SEO, content, ads, and 500+ free marketing tools &amp; expert eBooks.
+</p>
