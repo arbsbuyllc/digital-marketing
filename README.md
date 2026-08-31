@@ -1,4 +1,4 @@
 <p>
-  <a href="https://www.arbsbuy.com" target="_blank" rel="noopener noreferrer">Arb Digital</a>
+  <a href="https://arbsbuy.com" target="_blank" rel="noopener noreferrer">Arb Digital</a>
   (Arbsbuy LLC) is a US-registered digital marketing agency helping brands grow with SEO, content, ads, and 500+ free marketing tools &amp; expert eBooks.
 </p>
